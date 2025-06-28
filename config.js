@@ -1,3 +1,3 @@
 module.exports = {
-  BOT_TOKEN: "Token Mu Kontol",
+  BOT_TOKEN: "7860816672:AAFx8aAKewnnsblXVy_39y0vXHBXDHNKVJY",
 };
